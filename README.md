@@ -30,7 +30,8 @@
 <img alt='React' width='24px' src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png' /> &nbsp;
 <img alt='Redux' width='24px' src='https://cdn.worldvectorlogo.com/logos/redux.svg' /> &nbsp;
 <img alt='MySQL' width='42px' src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' /> &nbsp;
-<img alt='Node-js' width='24px' src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' />
+<img alt='Node-js' width='24px' src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' /> &nbsp;
+<img alt='GitHub' width='28px' src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' />
 
 <br />
 
