@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img alt='Arpad Lonstak | LinkedIn' width='24px' src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536569.png?token=exp=1635944099~hmac=2fa8eebdcd9ea925579221aaa421b233' />]([linkedin] "Arpad Lonstak | LinkedIn")
+[<img alt='Arpad Lonstak | LinkedIn' width='24px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuQb6Cw_6s7F68QCQ8n3T8i2qp0Z-uvJL_Q&usqp=CAU' />]([linkedin] "Arpad Lonstak | LinkedIn")
 
 <br />
 
