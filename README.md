@@ -4,8 +4,8 @@
 
 <br />
 
-- ♊ I am looking for a junior software developer position, thus working on my profile 😊
-- 🌱 I am currently learning full-stack software development
+- ♊ I am a junior ServiceNow developer 😊
+- 🌱 I am currently working on Portals, Workspaces, Notifications, Conversational Interfaces, Virtual Agent applications
 - 🎲 I love to play, test and develop board games
 - 🐧 I also love to play as an ice-hockey goalie
 
